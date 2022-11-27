@@ -26,4 +26,4 @@ This is my first API, made with node.js. I used the top 100 streamed songs of al
 
 ## View it live
 
-https://top-tracks-isabel-gonzalez.herokuapp.com/endpoints
+https://project-express-api-x4mudfnfbq-lz.a.run.app/endpoints
